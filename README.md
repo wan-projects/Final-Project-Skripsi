@@ -1,4 +1,4 @@
-# Aksara Jawa Classification with CNN (VGG-16)
+# Hyperparameter Tuning and Preprocessing Techniques for Optimizing Javanese Scripts Classification
 
 ## Overview
 This project focuses on the classification of Javanese script characters using a Convolutional Neural Network (CNN) with VGG-16 architecture. The dataset used for training and testing comes from Roboflow and Kaggle. The goal is to classify 20 distinct Javanese characters, including Ba, Ca, Da, Dha, Ga, Ha, Ja, Ka, La, Ma, Na, Nga, Nya, Pa, Ra, Sa, Ta, Tha, Wa, and Ya.
